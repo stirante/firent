@@ -1,0 +1,8 @@
+name: Firent
+main: com.stirante.firent.Firent
+author: sitrante
+version: 0.1
+
+commands:
+  resetskill:
+  mspawn:
